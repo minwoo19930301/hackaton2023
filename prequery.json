@@ -1,0 +1,22 @@
+[
+  {
+    "placeholder": "파운데이션 21와 23호 중 밝은 것은?",
+    "answers": ["21호", "21", "파운데이션 21호"],
+    "destination": "congrats.html"
+  },
+  {
+    "placeholder": "토퍼와 매트리스 중 얇은 것은?",
+    "answers": ["토퍼", "토퍼 매트리스"],
+    "destination": "congrats3.html"
+  },
+  {
+    "placeholder": "UHD와 4K 중 해상도가 높은 모니터는?",
+    "answers": ["4k", "4K", "4", "4K 모니터", "4k 모니터"],
+    "destination": "congrats2.html"
+  },
+  {
+    "placeholder": "스타킹의 굵기를 뜻하는 단위는?",
+    "answers": ["대니아", "데니아", "데니어", "데니얼"],
+    "destination": "congrats4.html"
+  }
+]
